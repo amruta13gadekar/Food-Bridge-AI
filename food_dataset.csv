@@ -1,0 +1,70 @@
+food_type,quantity_kg,meals_served
+Rice,5,30
+Rice,10,60
+Rice,15,90
+Rice,20,120
+Rice,25,150
+Rice,30,180
+Biryani,5,25
+Biryani,10,50
+Biryani,15,75
+Biryani,20,100
+Biryani,25,125
+Biryani,30,150
+Pulao,5,35
+Pulao,10,70
+Pulao,15,105
+Pulao,20,140
+Pulao,25,175
+Chapati,5,40
+Chapati,10,80
+Chapati,15,120
+Chapati,20,160
+Idli,5,50
+Idli,10,100
+Idli,15,150
+Idli,20,200
+Puri,5,40
+Puri,10,80
+Puri,15,120
+Puri,20,160
+Dosa,5,45
+Dosa,10,90
+Dosa,15,135
+Dosa,20,180
+Sambar,5,30
+Sambar,10,60
+Sambar,15,90
+Sambar,20,120
+Curd,5,25
+Curd,10,50
+Curd,15,75
+Curd,20,100
+Brinjal Curry,5,30
+Brinjal Curry,10,60
+Brinjal Curry,15,90
+Brinjal Curry,20,120
+Dal,5,30
+Dal,10,60
+Dal,15,90
+Dal,20,120
+Rasam,5,30
+Rasam,10,60
+Rasam,15,90
+Rasam,20,120
+Upma,5,40
+Upma,10,80
+Upma,15,120
+Upma,20,160
+Pongal,5,40
+Pongal,10,80
+Pongal,15,120
+Pongal,20,160
+Vada,5,40
+Vada,10,80
+Vada,15,120
+Vada,20,160
+Vegetable Curry,5,30
+Vegetable Curry,10,60
+Vegetable Curry,15,90
+Vegetable Curry,20,120
